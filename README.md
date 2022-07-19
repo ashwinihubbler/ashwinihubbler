@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwini Rathod
-- 👀 I’m interested in doing Coding!
+- 👀 I’m interested in Coding!
 - 🌱 I’m currently working at Hubbler.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me ashwini@hubbler.mobi
