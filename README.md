@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Ashwini Rathod
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently working at Hubbler.
-- 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me ashwini@hubbler.mobi
-
-<!---
-ashwinihubbler/ashwinihubbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <!-- <a href="#"><img width="100%" height="auto" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers.jpg" height="50px"/></a> -->
 <!-- # Hi, I'm Ashwini Rathod <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">👩‍💻 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="gif">, I'm Ashwini Rathod👩‍💻 </h1>
@@ -21,7 +10,7 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 - 🔭 I’m currently working at [Hubbler](https://www.hubbler.app/)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, MongoDB, ExpressjS, React, NodeJS**
+- 🌱 I’m learning **HTML, CSS, Javascript, MongoDB, ExpressjS, React, NodeJS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -29,13 +18,9 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 - 📝 I regularly write articles on [Blog](https://medium.com/@rathodashwini990/we-created-a-lybrate-com-clone-in-6-days-913dfd79d57)
 
-- 💬 Ask me about **MERN**
+- 📫 How to reach me **ashwini@hubbler.mobi**
 
-- 📫 How to reach me **rathodashwini990@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U5eK_iLuw8iGRdzdl3CDtbU15eBSRJG4/view?usp=sharing)
-
-- ⚡ Fun fact **I'm passionate about Coding and I like to Debugging Codes**
+- ⚡ Fun fact **I'm passionate about Coding and I like to Debug Codes**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodashwini990&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashwini990" /> </p>
 
