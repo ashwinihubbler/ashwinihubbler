@@ -16,7 +16,7 @@ I am an enthusiastic, ambitious developer, eager to contribute to make open sour
 
 - 📫 How to reach me **ashwini@hubbler.mobi**
 
-- ⚡ Fun fact **Jr. Software Engineer from India**
+- ⚡ Fun fact **I'm passionate about coding and love travelling**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodashwini990&label=Profile%20views&color=0e75b6&style=flat" alt="rathodashwini990" /> </p>
 
